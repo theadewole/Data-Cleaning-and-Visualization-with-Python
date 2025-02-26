@@ -43,5 +43,6 @@ The following were created to illustrate trends and insights:
 - Data preprocessing significantly improved the dataset's usability.
 
 This project demonstrates essential data wrangling, visualization, and analysis skills, providing meaningful insights into FIFA 21 player attributes.
-```
+
+[![View Data Dictionary](https://img.shields.io/badge/View%20Data%20Dictionary-Click%20Here-blue?style=for-the-badge)](https://github.com/theadewole/Data-Cleaning-and-Visualization-with-Python/blob/main/Data%20Dictionary.md)                       [![View Python Script](https://img.shields.io/badge/View%20Python%20Script-Click%20Here-blue?style=for-the-badge)](https://github.com/theadewole/Data-Cleaning-and-Visualization-with-Python/blob/main/Fifa21.ipynb)            
 
