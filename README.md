@@ -31,7 +31,9 @@ EDA was conducted to identify trends in the dataset. Key analyses include:
 ## **5. Visualizations**
 The following were created to illustrate trends and insights:
 - **Histogram of Player Ratings**: Shows how overall ratings are distributed
-- **Barchart of Nationality**: Top 10 Nationalities Represented in FIFA 21
+- **Barchart of Nationality**
+    - Top 10 Nationalities Represented in FIFA 21
+    - Top Rated Players and their Club
 - **Wage vs. Overall Rating**: Scatter plot analyzing player salaries and performance
 
 ## **6. Conclusions & Findings**
