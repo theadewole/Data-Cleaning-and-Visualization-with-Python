@@ -29,11 +29,10 @@ EDA was conducted to identify trends in the dataset. Key analyses include:
 - **Distribution of Player Overall Ratings**: Understanding rating trends across all players
 
 ## **5. Visualizations**
-Several visualizations were created to illustrate trends and insights:
+The following were created to illustrate trends and insights:
 - **Histogram of Player Ratings**: Shows how overall ratings are distributed
-- **Top 10 Most Valuable Players**: Bar chart highlighting players with the highest market value
+- **Barchart of Nationality**: Top 10 Nationalities Represented in FIFA 21
 - **Wage vs. Overall Rating**: Scatter plot analyzing player salaries and performance
-- **Club-wise Distribution of Players**: Insights into team compositions
 
 ## **6. Conclusions & Findings**
 - The majority of players have an overall rating between 60-80.
